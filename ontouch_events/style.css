@@ -1,0 +1,6 @@
+.block-1, .block-2, .div-1, .div-2, .div-3_1, .div-3_2 {
+    width: 100px;
+    height: 100px;
+    border: 3px solid red;
+    margin: 10px;
+}

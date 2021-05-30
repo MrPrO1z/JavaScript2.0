@@ -1,0 +1,38 @@
+.center {
+    text-align: center;
+}
+hr {
+    clear: both;
+}
+.orange {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    color: #fff;
+    background: orange;
+}
+.red {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    color: #fff;
+    background: red;
+}
+.blue {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    color: #fff;
+    background: blue;
+}
+.green {
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    color: #fff;
+    background: green;
+}
